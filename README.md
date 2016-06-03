@@ -1,2 +1,2 @@
 # net-tools
-Various scripts for networking related stuff
+Various scripts for mostly networking and Linux related stuff.
